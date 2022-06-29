@@ -3,8 +3,14 @@
 - 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me serasusan02@gmail.com
-
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<p>Welcome to my page! </br> I'm Sera, 1st year BTech <img src="https://cdn-icons-png.flaticon.com/512/330/330439.png" width="13"/> <b>Kerala,India</b>
+<h3>Currently Learning</h3>
+<p>
+  <img alt="NodeJS" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" />
+  <img alt="Python" src="https://cdn-icons-png.flaticon.com/512/1387/1387537.png" /> 
 <!---
+
 serasusan/serasusan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
