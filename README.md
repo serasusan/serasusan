@@ -7,7 +7,7 @@
 <p>Welcome to my page! </br> I'm Sera, 1st year BTech <img src="https://cdn-icons-png.flaticon.com/512/330/330439.png" width="13"/> <b>Kerala,India</b>
 <h3>Currently Learning</h3>
 <p>
-  <img alt="NodeJS" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" />
+  <img alt="NodeJS" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="30"/>
   <img alt="Python" src="https://cdn-icons-png.flaticon.com/512/1387/1387537.png" /> 
 </p>
 <!---
