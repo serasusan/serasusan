@@ -1,7 +1,8 @@
 ###  Hi👋, I’m Sera!
 
 # 💫 About Me:
-I'm currently learning react, Frappe and Data science
+I'm currently learning React, Django and AI/ML
+I've explored Frappe, Flask, Flutter etc.
 
 
 ## 🌐 Socials:
